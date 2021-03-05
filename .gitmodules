@@ -1,0 +1,3 @@
+[submodule "cgl"]
+	path = cgl
+	url = git@github.com:BenjaminCecchetto/CecchettoGL.git
